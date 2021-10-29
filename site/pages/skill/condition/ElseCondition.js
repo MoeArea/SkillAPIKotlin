@@ -19,4 +19,4 @@ const ElseCondition = {
     ]
 };
 
-export default CastLevelCondition
+export default ElseCondition
