@@ -143,6 +143,8 @@ class SkillEditor extends React.Component {
                         {/* TODO - add requirement list display */}
                         <FormButton icon="add" text="Add Requirement" onClick={this.showRequirementForm}/>
 
+                        <FormButton icon="add" text= "Save Skill" onClick={this.save}/>
+
                     </CardContent>
                 </Card>
             </Drawer>
